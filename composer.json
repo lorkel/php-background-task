@@ -1,5 +1,6 @@
 {
     "require": {
+        "heroku/heroku-buildpack-php": "*",
         "mpdf/mpdf": "^7.0",
         "aws/aws-sdk-php": "~2.6",
         "predis/predis": "1.0.3"
